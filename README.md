@@ -145,3 +145,31 @@ Memnun olan yolcuların yaş ortalaması, memnun olmayan yolculara göre bir mik
 
 
 Bu bulgular doğrultusunda müşteri memnuniyetini artırmaya yönelik iş önerileri geliştirilmiş ve bir sonraki bölümde sunulmuştur.
+
+## 💼 Business Recommendations
+
+Analiz sonucunda elde edilen bulgular doğrultusunda aşağıdaki iş önerileri geliştirilmiştir.
+
+### 1. Economy Class Yolcu Deneyimi İyileştirilmelidir
+
+Analizler, Economy sınıfında seyahat eden yolcuların memnuniyet oranının Business Class yolcularına kıyasla belirgin şekilde daha düşük olduğunu göstermektedir. Koltuk konforu, uçuş içi hizmetler ve eğlence sistemleri gibi alanlarda yapılacak iyileştirmeler müşteri memnuniyetini artırabilir.
+
+---
+
+### 2. Operasyonel Gecikmeler Azaltılmalıdır
+
+Kalkış ve varış gecikmeleri arttıkça müşteri memnuniyetinin azaldığı gözlemlenmiştir. Operasyonel süreçlerin iyileştirilmesi ve gecikme durumlarında yolcuların zamanında bilgilendirilmesi müşteri deneyimini olumlu yönde etkileyebilir.
+
+---
+
+### 3. Sadakat Programları Güçlendirilmelidir
+
+Sadık müşteriler genel olarak daha yüksek memnuniyet düzeyine sahip olsa da bu grupta hâlâ memnun olmayan önemli bir yolcu kitlesi bulunmaktadır. Mevcut sadakat programlarının kişiselleştirilmiş avantajlar ve ek hizmetlerle desteklenmesi müşteri bağlılığını artırabilir.
+
+---
+
+### 4. Farklı Yolcu Segmentlerine Özel Hizmetler Sunulmalıdır
+
+İş amaçlı ve kişisel amaçlı seyahat eden yolcuların beklentileri farklılık göstermektedir. Yolcu segmentlerine göre özelleştirilen hizmet ve kampanyalar müşteri memnuniyetini artırmada etkili olabilir.
+
+Bu öneriler, veri analizi sonucunda elde edilen bulgulara dayanmaktadır ve havayolu şirketlerinin müşteri deneyimini geliştirmeye yönelik stratejik kararlarına destek sağlamayı amaçlamaktadır.

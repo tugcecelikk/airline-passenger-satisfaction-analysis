@@ -173,3 +173,91 @@ Sadık müşteriler genel olarak daha yüksek memnuniyet düzeyine sahip olsa da
 İş amaçlı ve kişisel amaçlı seyahat eden yolcuların beklentileri farklılık göstermektedir. Yolcu segmentlerine göre özelleştirilen hizmet ve kampanyalar müşteri memnuniyetini artırmada etkili olabilir.
 
 Bu öneriler, veri analizi sonucunda elde edilen bulgulara dayanmaktadır ve havayolu şirketlerinin müşteri deneyimini geliştirmeye yönelik stratejik kararlarına destek sağlamayı amaçlamaktadır.
+
+
+
+## 📂 Project Structure
+
+```text
+airline-passenger-satisfaction-analysis
+│
+├── dashboard/                        # Dashboard files (planned)
+│
+├── data
+│   ├── raw
+│   │   ├── processed
+│   │   └── train.csv
+│
+├── figures                           # Visualizations created during the analysis
+│
+├── notebooks
+│   ├── 01_data_understanding.ipynb        # Dataset overview
+│   ├── 02_data_cleaning.ipynb             # Data preprocessing and cleaning
+│   ├── 03_exploratory_data_analysis.ipynb # Exploratory Data Analysis (EDA)
+│   └── 04_business_report.ipynb           # Business insights and recommendations
+│
+├── reports                            # Project reports (planned)
+│
+├── .gitignore
+├── README.md
+└── requirements.txt
+```
+
+
+
+## Technologies Used
+
+| Category | Technologies |
+|----------|--------------|
+| Programming Language | Python |
+| Data Manipulation | Pandas, NumPy |
+| Data Visualization | Matplotlib, Seaborn |
+| Development Environment | Jupyter Notebook, Visual Studio Code |
+| Version Control | Git, GitHub |
+
+
+
+## Installation
+
+1. Clone the repository
+```bash
+
+git clone https://github.com/USERNAME/airline-passenger-satisfaction-analysis.git
+
+cd airline-passenger-satisfaction-analysis
+
+pip install -r requirements.txt
+```fi
+
+## How to Run
+
+Run the notebooks in the following order:
+
+1. Data Understanding
+2. Data Cleaning
+3. Exploratory Data Analysis
+4. Business Report
+
+## Future Improvements
+
+Bu proje gelecekte aşağıdaki geliştirmelerle genişletilebilir:
+
+- Streamlit kullanılarak etkileşimli bir dashboard geliştirilmesi.
+- Yolcu memnuniyetini tahmin eden makine öğrenmesi modellerinin oluşturulması.
+- Bulguları desteklemek amacıyla ileri düzey istatistiksel analizlerin uygulanması.
+- Müşteri davranışlarını daha ayrıntılı incelemek için yeni görselleştirmelerin eklenmesi.
+- Yolcu memnuniyetini etkileyen değişkenlerin önem derecelerinin analiz edilmesi.
+
+
+## Author
+
+**Tuğçe Çelik**
+
+Statistics Student at Hacettepe University
+
+Passionate about Data Analysis, Data Visualization and Machine Learning.
+
+### Connect with me
+
+- GitHub: https://github.com/
+- LinkedIn: https://www.linkedin.com/in/
